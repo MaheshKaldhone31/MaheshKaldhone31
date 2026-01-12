@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm **MAHESH KALDHONE** </h1>
+<h1 align="center">Hi there 👋, I'm MAHESH KALDHONE </h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile views" />
 </p>
