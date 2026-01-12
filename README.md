@@ -3,9 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile views" />
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"></a>
+  <a href="www.linkedin.com/in/mahesh-kaldhone"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:maheshkaldhone.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://maheshkaldhone.online"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
@@ -40,7 +40,7 @@ Terraform module provisioning **multi-region VPCs** with public/private subnets,
 Automates CI/CD pipeline via **GitHub Actions + Helm**, deploying microservices to **EKS**.
 
 ### **monitoring-stack**
-Sets up **Prometheus & Grafana monitoring stack**, with alerting dashboards.
+Sets up **Prometheus & Grafana monitoring stack** **New Relic** **Nagios** **AWS CloudWatch**, with alerting dashboards.
 
 ---
 
