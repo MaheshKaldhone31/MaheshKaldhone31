@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile views" />
 </p>
 <p align="center">
-  <a href="www.linkedin.com/in/mahesh-kaldhone"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/mahesh-kaldhone"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:maheshkaldhone.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://maheshkaldhone.online"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"></a>
 </p>
